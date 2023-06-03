@@ -16,6 +16,10 @@ Password: admin
 Username: User123
 Password: user123456789
 
+Steps:
+1. Download The File and extract the File.
+2. Create Folder as foodienator in c:\Xampp\htdocs.
+3. Then Copy All The Files from extracted File and paste in foodienator file which is you earlier created.
 Execution:
 1. Import the database file in PhpMyAdmin.
 2. Start Apache And Mysql Actions In Xampp Server.
