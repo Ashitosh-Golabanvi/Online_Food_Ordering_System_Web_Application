@@ -8,7 +8,7 @@ Steps:
 3. Then Copy All The Files from extracted File and paste in foodienator file which is you earlier created.
 
 
-Execution:
+**Execution:**
 1. Import the database file in PhpMyAdmin.
 2. Start Apache And Mysql Actions In Xampp Server.
 
