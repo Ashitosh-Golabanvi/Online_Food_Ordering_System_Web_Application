@@ -2,6 +2,9 @@
 
 **Recommended PHP Version 7.4.12**
 
+**Required Technologies:**
+* Xampp Control Panel.
+
 Steps:
 1. Download The File and extract the File.
 2. Create Folder as foodienator in c:\Xampp\htdocs.
