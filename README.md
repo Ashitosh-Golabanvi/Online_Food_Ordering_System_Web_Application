@@ -4,6 +4,7 @@
 
 **Required Technologies:**
 * Xampp Control Panel.
+* Mysql Work-Bench
 
 Steps:
 1. Download The File and extract the File.
