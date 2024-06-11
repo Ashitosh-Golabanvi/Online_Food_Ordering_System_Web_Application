@@ -6,7 +6,7 @@
 * Xampp Control Panel.
 * Mysql Work-Bench.
 
-Steps:
+**Steps:**
 1. Download The File and extract the File.
 2. Create Folder as foodienator in c:\Xampp\htdocs.
 3. Then Copy All The Files from extracted File and paste in foodienator file which is you earlier created.
